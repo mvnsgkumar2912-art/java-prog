@@ -1,7 +1,7 @@
 public class Arithmetic {
     public static void main(String[] args) {
         // Variables to hold numbers
-        int num1 = 15;
+        int num1 = 150;
         int num2 = 5;
 
         // Performing basic math calculations
