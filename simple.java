@@ -1,4 +1,4 @@
-public class Arithmetic {
+public Class Arithmetic {
     public static void main(String[] args) {
         // Variables to hold numbers
         int num1 = 150;
